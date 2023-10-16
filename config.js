@@ -85,7 +85,7 @@ const CONFIG = {
 			id: '6',
 			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://www.youtube.com/',
 		},
 	],
 
@@ -140,19 +140,15 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://open.spotify.com/playlist/6l5gHlz71i8h07AzPnICTh?si=d5725566cd9643c0',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Romantic',
+					link: 'https://open.spotify.com/playlist/5YDfB19ddoUSysFTflAb3F?si=36ed37f09b364a0a',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-				},
-				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'PM mood',
+					link: 'https://open.spotify.com/playlist/1nbujnZJpPoAmr4EhSiM1W?si=b83f3167dcbe4ed6',
 				},
 			],
 		},
