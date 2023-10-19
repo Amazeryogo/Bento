@@ -149,7 +149,10 @@ const CONFIG = {
 				{
 					name: 'PM mood',
 					link: 'https://open.spotify.com/playlist/1nbujnZJpPoAmr4EhSiM1W?si=b83f3167dcbe4ed6',
-				},
+				},{
+					name: 'Hindi',
+					link: 'https://open.spotify.com/playlist/2AJOi6Y6FOjADZZ5e1Vgjl?si=1ae9e8dbcaec4121'
+				}
 			],
 		},
 		{
