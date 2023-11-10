@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.google.com/',
 		},
 		{
 			id: '3',
@@ -151,7 +151,7 @@ const CONFIG = {
 					link: 'https://open.spotify.com/playlist/1nbujnZJpPoAmr4EhSiM1W?si=b83f3167dcbe4ed6',
 				},{
 					name: 'Hindi',
-					link: 'https://open.spotify.com/playlist/2AJOi6Y6FOjADZZ5e1Vgjl?si=1ae9e8dbcaec4121'
+					link: 'https://open.spotify.com/playlist/2AJOi6Y6FOjADZZ5e1Vgjl?si=1ae9e8dbcaec4121',
 				}
 			],
 		},
